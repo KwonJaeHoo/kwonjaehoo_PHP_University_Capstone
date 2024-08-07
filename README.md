@@ -18,7 +18,7 @@
   <img alt="css" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="filezilla" src="https://img.shields.io/badge/filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=black"/>
-
+  <img alt="visual studio code" src="https://img.shields.io/badge/style=for-the-badge&logo=vsCode&logoColor=white"/>
   
 </p>
 
@@ -38,17 +38,19 @@ ERD
 
 ##
 기능
+<a>
   회원가입
   로그인/로그아웃
-  
+</a>
+<a>
   게시판
     글작성/글수정/글삭제
     사진업로드
     검색
-  
+</a>
+<a> 
   마이페이지
     내가 쓴 글 보기
     사용자 정보변경
     회원탈퇴
-    
-  
+</a>
