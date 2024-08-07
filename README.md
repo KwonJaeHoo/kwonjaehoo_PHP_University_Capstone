@@ -13,5 +13,11 @@
 ##
 흐름도
 <p align="left">
-  <img alt="" src=""/>
+  <img alt="" src="https://github.com/user-attachments/assets/79e39d15-8dae-4801-ab79-0daf87283e17"/>
+</p>
+
+##
+ERD
+<p align="left">
+  <img alt="" src="" />
 </p>
