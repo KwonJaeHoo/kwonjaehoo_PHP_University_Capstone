@@ -18,7 +18,7 @@
   <img alt="css" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="filezilla" src="https://img.shields.io/badge/filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=black"/>
-  <img alt="visual studio code" src="https://img.shields.io/badge/style=for-the-badge&logo=vsCode&logoColor=white"/>
+  <img alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   
 </p>
 
