@@ -1,0 +1,49 @@
+div.rgyPostIt {
+    position: relative;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 130px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    border: 1px solid #f8f861;
+    border-left: 30px solid #f8f861;
+    border-bottom-right-radius: 60px 10px;
+    font-family: 'Nanum Pen Script';
+    font-size: 27px;
+    color: #555;
+    word-break: break-all;
+    background: #ffff88; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #ffff88 81%, #ffff88 82%, #ffff88 82%, #ffffc6 100%); /* FF3.6+ */
+    background: -webkit-linear-gradient(-45deg, #ffff88 81%, #ffff88 82%, #ffff88 82%, #ffffc6 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #ffff88 81%, #ffff88 82%, #ffff88 82%, #ffffc6 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg, #ffff88 81%, #ffff88 82%, #ffff88 82%, #ffffc6 100%); /* IE10+ */
+    background: linear-gradient(135deg, #ffff88 81%, #ffff88 82%, #ffff88 82%, #ffffc6 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff88', endColorstr='#ffffc6', GradientType=1); /* IE6-9 fallback on horizontal gradient */
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+}
+
+
+div.rgyPostIt:hover {
+    border-bottom-right-radius: 175px 105px;
+}
+
+div.rgyPostIt:hover::after {
+    box-shadow: 2px 37px 7px rgba(0, 0, 0, 0.37);
+    -webkit-box-shadow: 2px 37px 7px rgba(0, 0, 0, 0.37);
+}
+
+div.rgyPostIt > p {
+    padding: 5px 0 !important;
+}
+
+div.rgyPostIt > p::before {
+    content:"\f198";
+    margin-right: 7px;
+    font-family: "FontAwesome";
+    font-weight: normal;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+
