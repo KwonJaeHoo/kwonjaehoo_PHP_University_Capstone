@@ -13,13 +13,13 @@
 ##
 흐름도
 <p align="left">
-  <img alt="" src="https://github.com/user-attachments/assets/79e39d15-8dae-4801-ab79-0daf87283e17"/>
-  <img alt="" src="https://github.com/user-attachments/assets/79e39d15-8dae-4801-ab79-0daf87283e17"/>
-  <img alt="" src="https://github.com/user-attachments/assets/79e39d15-8dae-4801-ab79-0daf87283e17"/>
+  <img alt="g1" src="https://github.com/user-attachments/assets/a752d76b-335a-47ab-8cde-7bfe0c47aac1"/>
+  <img alt="g2" src="https://github.com/user-attachments/assets/4d407c72-f20c-412a-946e-e26215c2596d"/>
+  <img alt="g3" src="https://github.com/user-attachments/assets/45a952dc-0b4d-4e77-a998-6ce9e2d992ff"/>
 </p>
 
 ##
 ERD
 <p align="left">
-  <img alt="" src="" />
+  <img alt="erd" src="" />
 </p>
