@@ -11,6 +11,18 @@
 복잡한 과정을 단순화 하여, 보다 빠르게 원하고자 하는 정보를 눈으로 보며 확인 할 수 있도록 하기 위해서 제작하였습니다.
 
 ##
+사용언어 및 툴
+<p align="left">
+  <img alt="php" src ="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="filezilla" src="https://img.shields.io/badge/filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=black"/>
+
+  
+</p>
+
+##
 흐름도
 <p align="left">
   <img alt="g1" src="https://github.com/user-attachments/assets/a752d76b-335a-47ab-8cde-7bfe0c47aac1"/>
@@ -21,5 +33,22 @@
 ##
 ERD
 <p align="left">
-  <img alt="erd" src="" />
+  <img alt="erd" src="https://github.com/user-attachments/assets/3dcbe8b0-519a-45c1-934d-c9f7a972abbf"/>
 </p>
+
+##
+기능
+  회원가입
+  로그인/로그아웃
+  
+  게시판
+    글작성/글수정/글삭제
+    사진업로드
+    검색
+  
+  마이페이지
+    내가 쓴 글 보기
+    사용자 정보변경
+    회원탈퇴
+    
+  
